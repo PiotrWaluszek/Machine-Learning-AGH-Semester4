@@ -13,7 +13,7 @@ This repository contains lab tasks and materials for the Machine Learning course
 To use the materials in this repository, follow these steps:
 
 1. **Clone the repository:**
-`git clone https://github.com/[PiotrWaluszek/Machine-Learning-AGH-Semester4.git`
+`git clone https://github.com/PiotrWaluszek/Machine-Learning-AGH-Semester4.git`
 
 
 2. **Navigate to a lab directory:**
